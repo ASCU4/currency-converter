@@ -49,3 +49,4 @@ async function convertCurrency(e){
     resultDiv.textContent = `${amount} ${fromCurrencyValue} = ${result} ${toCurrencyValue}`;
 
 }
+
